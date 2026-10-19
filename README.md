@@ -1,6 +1,6 @@
 # Coarse-to-Fine Domain Incremental Learning with Attentive Distillation for Mining Footprint Segmentation in Multispectral Imagery
 
-Alif Tri Handoyo<sup>1,*</sup>, Vincent C.S. Lee<sup>2</sup>, Rizka Widyarini Purwanto<sup>1</sup>, Alex M. Lechner<sup>1,3</sup>, Deanna Kemp<sup>4</sup>, and Muhamad Risqi U. Saputra<sup>1,*</sup>. IJCAI 2026. [[Paper]](https://www.ijcai.org/proceedings/2026/800)
+Alif Tri Handoyo<sup>1,*</sup>, Vincent C.S. Lee<sup>2</sup>, Rizka Widyarini Purwanto<sup>1</sup>, Alex M. Lechner<sup>1,3</sup>, Deanna Kemp<sup>4</sup>, and Muhamad Risqi U. Saputra<sup>1,*</sup>. Proceedings of the 35th International Joint Conference on Artificial Intelligence (IJCAI-ECAI 2026), AI and Social Good Track. [[Paper]](https://www.ijcai.org/proceedings/2026/800)
 
 ## Abstract
 
