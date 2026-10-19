@@ -1,0 +1,10 @@
+train_img_dir : ''
+train_mask_dir : ''
+val_img_dir : ''
+val_mask_dir : ''
+
+save_weight : ''
+save_csv : ''
+
+teacher_model_weights : ''
+
